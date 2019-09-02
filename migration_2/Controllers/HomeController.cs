@@ -19,6 +19,7 @@ namespace migration_2.Controllers
         {
             ViewData["Message"] = "Your application description page.";
 
+            string name = "dev joshi";
             return View();
         }
 
