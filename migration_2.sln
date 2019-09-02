@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "migration_2", "migration_2\migration_2.csproj", "{4E26D18A-17B6-4CAB-9BBC-7BCCB0DA2D40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL1", "DAL1\DAL1.csproj", "{27F0835E-6339-4AE8-876C-C91AFB318E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E26D18A-17B6-4CAB-9BBC-7BCCB0DA2D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E26D18A-17B6-4CAB-9BBC-7BCCB0DA2D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E26D18A-17B6-4CAB-9BBC-7BCCB0DA2D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E26D18A-17B6-4CAB-9BBC-7BCCB0DA2D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F0835E-6339-4AE8-876C-C91AFB318E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F0835E-6339-4AE8-876C-C91AFB318E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F0835E-6339-4AE8-876C-C91AFB318E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F0835E-6339-4AE8-876C-C91AFB318E87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6993BCA-C4D4-46B1-A04A-2E9D1B709385}
+	EndGlobalSection
+EndGlobal
