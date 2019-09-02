@@ -21,7 +21,6 @@ namespace migration_2.Controllers
 
             string name = "dev joshi";
 
-            string address = "haridwar uk";
             return View();
         }
 
